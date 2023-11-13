@@ -1,29 +1,13 @@
-### Example 1
+### Example
 
-<pre>
 ```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
 ```
-</pre>
 
 #### How it looks
 
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
-
-### Example 2
-
-<pre>
-``` javascript
-var myVar = "Hello, world!";
-```
-</pre>
-
-#### How it looks
-
-```javascript
-var myVar = "Hello, world!";
-```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
