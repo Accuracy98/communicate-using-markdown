@@ -1,6 +1,9 @@
-# test
-## test2
-### test3
-#### test4
-##### test5
-###### test6
+### Example
+
+```md
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+
+#### How it looks
+
+<img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
